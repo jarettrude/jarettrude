@@ -7,7 +7,7 @@ I'm a Full Stack Web Development student with a unique background in Psychology 
 ## Technical Skills
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, PHP
- **Database**: MySQL
+- **Database**: MySQL
 - **CMS**: WordPress, Shopify, Salesforce
 - **Version Control**: Git
 
