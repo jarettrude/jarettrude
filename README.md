@@ -22,7 +22,7 @@ I'm a Full Stack Web Development student with a unique background in Psychology 
 
 ### IoT Projects
 - An interactive [button board](https://github.com/jarettrude/buttonboard) that I made for my kids that ran off a raspberry pi. I found [lightshowpi](https://www.reddit.com/r/LightShowPi/wiki/index/) that was designed to make christmas lights dance to music. By studying the code and following other people's implementations, I hacked together my own program written in python that allowed me to loop through my own sound files each time different buttons were pressed.
-- A [photobooth](https://github.com/jarettrude/photobooth) that I made using a raspberrypi, touchscreen, arduino, LEDs, and an old computer power supply. The photobooth allowed you to connect any digital camera that was supported by the [gphoto2](http://www.gphoto.org) to the raspberry pi and take photos through a locally hosted web app. My fork was primarily to customize the look of the webapp to meet my needs.
+- A [photobooth](https://github.com/jarettrude/photobooth) that I made using a raspberrypi, touchscreen, arduino, LEDs, and an old computer power supply. The photobooth allowed you to connect any digital camera (using [gphoto2](http://www.gphoto.org)) to the raspberry pi and take photos through a locally hosted web app. My fork was primarily to customize the look of the webapp to meet my needs.
 - A raspberry pi camera project, [PiCameraBox](https://github.com/jarettrude/PiCameraBox), written in python to control a camera module so that I could take pictures, record time-lapses, or capture video inside my laser engraver.
 
 
