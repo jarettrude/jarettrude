@@ -17,7 +17,7 @@ I'm a Full Stack Web Development student with a unique background in Psychology 
 
 ## Projects
 ### Web Development
-- [Dither & Etch](ditherandetch.ca): A locally owned and operated laser engraver specializing in art, decor, and commissioned pieces.
+- [Dither & Etch](https://ditherandetch.ca): A locally owned and operated laser engraver specializing in art, decor, and commissioned pieces.
 
 
 ### IoT Projects
@@ -30,9 +30,9 @@ I'm a Full Stack Web Development student with a unique background in Psychology 
 #### Woodworking and Engraving
 ![Laser cut and engraved wood veneers of a rose on a white background.](/src/img/rose-art.png "Rose")
 
-Mixing technology, lasers, and traditional mediums, [Dither & Etch](ditherandetch.ca) is a locally owned and operated laser engraver specializing in art, decor, and commissioned pieces.
+Mixing technology, lasers, and traditional mediums, I enjoy creating unique pieces of art, decor, and more.
 
 ## Professional Background
 - 10+ years in Human Services (Non-profits and Government)
-- Founded and operating [Dither & Etch](ditherandetch.ca), specializing in laser engraving and custom artwork
+- Founded and operating [Dither & Etch](https://ditherandetch.ca), specializing in laser engraving and custom artwork
 - Transitioning into web development, combining technical skills with human-centered design principles
