@@ -1,38 +1,17 @@
 # Jarett Rude
-> Full Stack Web Development Student | Small Business Owner | Tech Enthusiast
 
-## About Me
-I'm a Full Stack Web Development student with a unique background in Psychology and Human Services. My journey combines human-centered approaches with technical solutions, bringing a distinctive perspective to web development.
+I build software and data tools for community organizations through [Arbutus Code](https://arbutuscode.ca), run a small laser-cutting studio (Dither & Etch), and maintain a Proxmox homelab.
 
-## Technical Skills
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python, PHP
-- **Database**: MySQL
-- **CMS**: WordPress, Shopify, Salesforce
-- **Version Control**: Git
+## What's here
 
-## Education
-- Full Stack Web Development Diploma (In Progress)
-- Bachelor of Arts in Psychology
+- **[Moose Sports Empire](https://github.com/jarettrude/fantasy-baseball-league-sabermetrics)** — fantasy baseball analytics platform. FastAPI/Postgres/Redis backend, Astro/Svelte frontend, LLM-generated matchup recaps (Gemini + OpenRouter fallback), Yahoo OAuth, Docker/Traefik deploy. Archived after Yahoo restricted developer API access — the code still stands.
+- **[Pokedex Field Log Generator](https://github.com/jarettrude/poke-field-log-generator)** — Next.js/TypeScript app that generates nature-documentary-style Pokémon field logs with Gemini TTS narration. Batch jobs with pause/resume, SQLite storage, Vitest.
+- **[ditherandetch](https://github.com/jarettrude/ditherandetch)** — the studio site, Astro.
+- **Client sites** — pro bono Astro/Jekyll builds for Camrose Neighbor Aid Center and AMSAT-CA.
+- **Homelab** — Proxmox + Ansible: a Docker VM and LXC services behind Traefik, Tailscale-only access, ZFS backups. It's where these apps run and where I break things safely.
 
-## Projects
-### Web Development
-- [Dither & Etch](https://ditherandetch.ca): A locally owned and operated laser engraver specializing in art, decor, and commissioned pieces.
+## Background
 
+10+ years in human services — disability support, employment services, business analytics, and government contract oversight. Diploma in Full Stack Web Development (University of Alberta, 2025); BA Psychology (University of Lethbridge, 2012).
 
-### IoT Projects
-- An interactive [button board](https://github.com/jarettrude/buttonboard) that I made for my kids that ran off a raspberry pi. I found [lightshowpi](https://www.reddit.com/r/LightShowPi/wiki/index/) that was designed to make christmas lights dance to music. By studying the code and following other people's implementations, I hacked together my own program written in python that allowed me to loop through my own sound files each time different buttons were pressed.
-- A [photobooth](https://github.com/jarettrude/photobooth) that I made using a raspberrypi, touchscreen, arduino, LEDs, and an old computer power supply. The photobooth allowed you to connect any digital camera (using [gphoto2](http://www.gphoto.org)) to the raspberry pi and take photos through a locally hosted web app. My fork was primarily to customize the look of the webapp to meet my needs.
-- A raspberry pi camera project, [PiCameraBox](https://github.com/jarettrude/PiCameraBox), written in python to control a camera module so that I could take pictures, record time-lapses, or capture video inside my laser engraver.
-
-
-### Hobbies
-#### Woodworking and Engraving
-![Laser cut and engraved wood veneers of a rose on a white background.](/src/img/rose-art.png "Rose")
-
-Mixing technology, lasers, and traditional mediums, I enjoy creating unique pieces of art, decor, and more.
-
-## Professional Background
-- 10+ years in Human Services (Non-profits and Government)
-- Founded and operating [Dither & Etch](https://ditherandetch.ca), specializing in laser engraving and custom artwork
-- Transitioning into web development, combining technical skills with human-centered design principles
+Nanaimo, BC.
